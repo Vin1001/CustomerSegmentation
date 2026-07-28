@@ -89,7 +89,7 @@ Recommended datasets
 - Mall Customer Segmentation Dataset
 - Online Retail Dataset
 - Customer Shopping Dataset
-- Kaggle Customer Segmentation Dataset
+- Kaggle Customer Segmentation Dataset https://www.kaggle.com/datasets/rohit8527kmr7518/online-retail-customer-classification-dataset
 
 Example columns
 
